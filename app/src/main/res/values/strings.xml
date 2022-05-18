@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Kitsu</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dash">-</string>
+    <string name="something_in_japanese">カウボーイビバップ</string>
+    <string name="imageview_for_an_anime_poster">imageview for an anime poster</string>
+    <string name="imageview_for_an_anime_status">imageview for an anime status</string>
+    <string name="manga">Manga</string>
+    <string name="anime">Anime</string>
+    <string name="_2015_07_02">2015-07-02</string>
+    <string name="image_for_anime_s_cover_image">image for anime\'s cover image</string>
+    <string name="_64">64%</string>
+    <string name="kitsu_score">Kitsu Score</string>
+    <string name="bullet_point">•</string>
+    <string name="_2017">2017</string>
+    <string name="tv">TV</string>
+    <string name="age_rating">Age Rating</string>
+    <string name="premiered">Premiered</string>
+    <string name="status">Status</string>
+    <string name="studios">Studios</string>
+    <string name="details">Details</string>
+    <string name="episodes">Episodes</string>
+    <string name="pierrot_studio_pierrot">Pierrot, Studio Pierrot</string>
+    <string name="currently_airing">Currently Airing</string>
+    <string name="apr_5_spring_2017">Apr 5, Spring 2017</string>
+    <string name="pg_teens_13_or_older">PG - Teens 13 or older</string>
+    <string name="tbd">TBD</string>
+    <string name="rank_7691">Rank #7691</string>
+    <string name="rank_204">Rank #204</string>
+    <string name="it_is_a_really_long_text_even_you_are_not_gonna_catch_up_with_me_typing_this">It is a really long text, even you are not gonna catch up with me typing this</string>
+    <string name="star_for_rating">star for rating</string>
+    <string name="heart_for_popularity">heart for popularity</string>
+    <string name="anime_s_poster">anime\'s poster</string>
+    <string name="chapters">Chapters</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="sign_in">Sign in</string>
+</resources>
