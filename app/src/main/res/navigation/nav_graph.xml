@@ -8,12 +8,12 @@
 
     <fragment
         android:id="@+id/mainFlowFragment"
-        android:name="com.adel.kitsu.presentation.ui.fragments.main.MainFlowFragment"
+        android:name="com.adel.kitsuapi.presentation.ui.fragments.main.MainFlowFragment"
         android:label="fragment_main_flow"
         tools:layout="@layout/fragment_main_flow" />
     <fragment
         android:id="@+id/signInFlowFragment"
-        android:name="com.adel.kitsu.presentation.ui.fragments.auth.SignInFlowFragment"
+        android:name="com.adel.kitsuapi.presentation.ui.fragments.auth.SignInFlowFragment"
         android:label="fragment_sign_in_flow"
         tools:layout="@layout/fragment_sign_in_flow" >
         <action

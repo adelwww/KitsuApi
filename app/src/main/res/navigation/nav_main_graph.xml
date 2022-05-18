@@ -7,7 +7,7 @@
 
     <fragment
         android:id="@+id/animeDetailedFragment"
-        android:name="com.adel.kitsu.presentation.ui.fragments.anime.detailed.AnimeDetailedFragment"
+        android:name="com.adel.kitsuapi.presentation.ui.fragments.anime.detailed.AnimeDetailedFragment"
         android:label="fragment_anime_detailed"
         tools:layout="@layout/fragment_anime_detailed">
         <argument
@@ -16,7 +16,7 @@
     </fragment>
     <fragment
         android:id="@+id/animeFragment"
-        android:name="com.adel.kitsu.presentation.ui.fragments.anime.AnimeFragment"
+        android:name="com.adel.kitsuapi.presentation.ui.fragments.anime.AnimeFragment"
         android:label="fragment_anime"
         tools:layout="@layout/fragment_anime">
         <action
@@ -25,7 +25,7 @@
     </fragment>
     <fragment
         android:id="@+id/mangaFragment"
-        android:name="com.adel.kitsu.presentation.ui.fragments.manga.MangaFragment"
+        android:name="com.adel.kitsuapi.presentation.ui.fragments.manga.MangaFragment"
         android:label="fragment_manga"
         tools:layout="@layout/fragment_manga">
         <argument
@@ -37,7 +37,7 @@
     </fragment>
     <fragment
         android:id="@+id/mangaDetailedFragment"
-        android:name="com.adel.kitsu.presentation.ui.fragments.manga.detailed.MangaDetailedFragment"
+        android:name="com.adel.kitsuapi.presentation.ui.fragments.manga.detailed.MangaDetailedFragment"
         android:label="fragment_manga_detailed"
         tools:layout="@layout/fragment_manga_detailed">
 
