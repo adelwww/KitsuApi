@@ -4,9 +4,10 @@ import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.paging.PagingDataAdapter
 import androidx.recyclerview.widget.RecyclerView
-import com.adel.kitsu.databinding.ItemAnimeBinding
 import com.adel.kitsu.presentation.base.BaseDiffUtil
+import com.adel.kitsu.presentation.extensions.loadImageWithGlide
 import com.adel.kitsu.presentation.models.anime.AnimeDataUI
+import com.ilgiz.kitsu.databinding.ItemAnimeBinding
 
 class AnimeAdapter(
     private val onItemClick: (id: String) -> Unit

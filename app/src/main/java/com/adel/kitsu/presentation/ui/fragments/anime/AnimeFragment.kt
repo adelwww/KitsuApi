@@ -4,11 +4,11 @@ import android.util.Log
 import androidx.fragment.app.viewModels
 import androidx.navigation.fragment.findNavController
 import by.kirich1409.viewbindingdelegate.viewBinding
-import com.adel.kitsu.R
 import com.adel.kitsu.databinding.FragmentAnimeBinding
 import com.adel.kitsu.presentation.base.BaseFragment
 import com.adel.kitsu.presentation.extensions.directionsSafeNavigation
 import com.adel.kitsu.presentation.ui.adapters.AnimeAdapter
+import com.adel.kitsu.R
 import dagger.hilt.android.AndroidEntryPoint
 
 

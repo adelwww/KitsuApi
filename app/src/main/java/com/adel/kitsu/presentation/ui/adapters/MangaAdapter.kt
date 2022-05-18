@@ -4,9 +4,10 @@ import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.paging.PagingDataAdapter
 import androidx.recyclerview.widget.RecyclerView
-import com.adel.kitsu.databinding.ItemMangaBinding
 import com.adel.kitsu.presentation.base.BaseDiffUtil
+import com.adel.kitsu.presentation.extensions.loadImageWithGlide
 import com.adel.kitsu.presentation.models.manga.MangaDataUI
+import com.ilgiz.kitsu.databinding.ItemMangaBinding
 
 class MangaAdapter(
     private val onItemClick: (id: String) -> Unit

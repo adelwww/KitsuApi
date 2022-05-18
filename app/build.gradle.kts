@@ -35,11 +35,15 @@ android {
     kotlinOptions {
         jvmTarget = "11"
     }
+    buildFeatures{
+        viewBinding = true
+    }
 }
 
 dependencies {
 
     implementation(project(":domain"))
+    implementation(project(":data"))
 
 
     implementation(libs.bundles.uiComponents)
@@ -55,6 +59,7 @@ dependencies {
 
     // Navigation
     implementation(libs.bundles.navigation)
+
 
     // Hilt
     implementation(libs.hilt.android)

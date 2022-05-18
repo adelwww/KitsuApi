@@ -4,10 +4,10 @@ import android.widget.Toast
 import androidx.fragment.app.viewModels
 import by.kirich1409.viewbindingdelegate.viewBinding
 import com.adel.kitsu.R
-import com.adel.kitsu.databinding.FragmentSignInBinding
 import com.adel.kitsu.presentation.base.BaseFragment
 import com.adel.kitsu.presentation.extensions.mainNavControllerNavigation
 import com.adel.kitsu.presentation.extensions.safeNavigation
+import com.ilgiz.kitsu.databinding.FragmentSignInBinding
 import dagger.hilt.android.AndroidEntryPoint
 
 

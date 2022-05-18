@@ -1,5 +1,6 @@
 package com.adel.kitsu.data.remote
 
+import com.adel.kitsu.data.extensions.createAnApi
 import com.adel.kitsu.data.remote.apiservices.AnimeApiService
 import com.adel.kitsu.data.remote.apiservices.AuthenticationApiService
 import com.adel.kitsu.data.remote.apiservices.MangaApiService

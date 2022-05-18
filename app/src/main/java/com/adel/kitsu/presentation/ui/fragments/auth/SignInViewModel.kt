@@ -3,6 +3,7 @@ package com.adel.kitsu.presentation.ui.fragments.auth
 import com.adel.kitsu.domain.useCases.SignInUseCase
 import com.adel.kitsu.presentation.base.BaseViewModel
 import com.adel.kitsu.presentation.models.auth.TokenUI
+import com.adel.kitsu.presentation.models.auth.toUI
 import dagger.hilt.android.lifecycle.HiltViewModel
 import kotlinx.coroutines.flow.asStateFlow
 import javax.inject.Inject

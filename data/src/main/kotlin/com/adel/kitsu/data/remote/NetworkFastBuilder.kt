@@ -1,6 +1,5 @@
 package com.adel.kitsu.data.remote
 
-import com.adel.data.BuildConfig
 import com.adel.kitsu.data.local.preferences.PreferencesHelper
 import okhttp3.Interceptor
 import okhttp3.OkHttpClient

@@ -2,6 +2,7 @@ package com.adel.kitsu.presentation.ui.fragments.manga
 
 import com.adel.kitsu.data.repositories.MangaRepositoryImpl
 import com.adel.kitsu.presentation.base.BaseViewModel
+import com.adel.kitsu.presentation.models.manga.toUI
 import dagger.hilt.android.lifecycle.HiltViewModel
 import javax.inject.Inject
 

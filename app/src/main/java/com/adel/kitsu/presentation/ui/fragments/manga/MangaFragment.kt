@@ -9,6 +9,7 @@ import com.adel.kitsu.databinding.FragmentMangaBinding
 import com.adel.kitsu.presentation.base.BaseFragment
 import com.adel.kitsu.presentation.extensions.directionsSafeNavigation
 import com.adel.kitsu.presentation.ui.adapters.MangaAdapter
+import com.ilgiz.kitsu.databinding.FragmentMangaBinding
 import dagger.hilt.android.AndroidEntryPoint
 
 @AndroidEntryPoint
